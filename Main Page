@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>MAINPAGE</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='sty.css'>
+    
+</head>
+<html>
+<body>
+    <div class="one">
+     <h1>
+        BIBLIOBITS
+     </h1>
+    </div> 
+    <ul class="nav">
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">About Us</a></li>
+        <li><a href="#login">Login</a></li>  
+        <li><a href="#contact">Contact Us</a></li>
+      </ul>
+ <style>
+    img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    </style>
+    </head>
+    <body>
+    <img src="bibli.png" alt="Image of the website" width=100% height="500" ;">
+ <div class="four">
+    <div class="two">
+      <h2>DESCRIPTION</h2>
+      <h4>
+      Bibliobits is an educational website. This website will be an e-library guide for our college and many more. Our website will include textbooks, reference books, PDFs, etc. of subjects from both CSE and IT. 
+      </h4>
+    </div>
+   <div class="three">
+     <p>
+     <h3 style="text-align:center;color:rgb(89, 5, 5);font-size: xx-large;">YEARS AVAILABLE</h3>
+     <ul><li><a href="page3.html"  target="_parent"> First year</a></li>
+      <li><a href="page1.html"  target="_parent">Second year</a></li>
+     </ul>
+     </p>
+    </div>
+ </body>
+</html>
