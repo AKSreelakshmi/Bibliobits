@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset='utf-8'>
+        <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+        <title>OU_Recommened Books</title>
+        <meta name='viewport' content='width=device-width, initial-scale=1'>
+        <link rel='stylesheet' type='text/css' media='screen' href='sty3.css'>
+        
+    </head>   
+<body>
+  <center>
+    <div class="one">
+        <h1>
+            <img src="bibli.png" width="50" height="40" alt="Image of the website">
+            REFERENCE TEXTBOOKS
+        </h1>
+       </div> 
+       <ul class="nav">
+           <li><a href="#home">Home</a></li>
+           <li><a href="#about">About Us</a></li>
+           <li><a href="#login">Login</a></li>  
+           <li><a href="#contact">Contact Us</a></li>
+         </ul>
+    <h2><h3 style="text-align:center;color:rgb(89, 5, 5);font-size: xx-large;">Subjects Available - 1st Year</h3></h2>
+    <div class="btn-group">
+      <button class="GFG"
+      onclick="window.location.href = 'https://amzn.eu/d/jgOHxni';">
+        Math-1</button>
+      <button  class="GFG"
+      onclick="window.location.href = 'https://amzn.eu/d/jgOHxni';">
+      Math-2</button>
+      <button  class="GFG"
+      onclick="window.location.href = 'https://amzn.eu/d/fProgQ8';">
+      PPS</button>
+      <button  class="GFG"
+      onclick="window.location.href = 'https://amzn.eu/d/0EWkw8s';">
+      Physics</button>
+      <button  class="GFG"
+      onclick="window.location.href = 'https://amzn.eu/d/dlEYnk8';">
+      Chemistry</button>
+      <button  class="GFG"
+      onclick="window.location.href = 'https://amzn.eu/d/czuJSy3';">
+      English</button>
+      <button  class="GFG"
+      onclick="window.location.href = 'https://amzn.eu/d/eMRyaHY';">
+      BEE</button>
+      <button  class="GFG"
+      onclick="window.location.href = 'https://amzn.eu/d/0hB7z0D';">
+      EITK</button>
+      <button  class="GFG"
+      onclick="window.location.href = 'https://amzn.eu/d/b5ywx5O';">
+      IC</button>
+      <button  class="GFG"
+      onclick="window.location.href = 'https://amzn.eu/d/dYAkKwj';">
+      ES</button>
+      </div>
+    </center>
+</body>
+</html>
+
+
