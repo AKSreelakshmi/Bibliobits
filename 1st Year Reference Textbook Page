@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset='utf-8'>
+        <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+        <title style="text-align:center;color:rgb(89, 5, 5);font-size: xx-large;">REFERENCE TEXTBOOKS </h></title>
+        <meta name='viewport' content='width=device-width, initial-scale=1'>
+        <link rel='stylesheet' type='text/css' media='screen' href='sty1.css'>
+        
+    </head>   
+<body>
+    <div class="one">
+        <h1>
+            <img src="bibli.png" width="50" height="40" alt="Image of the website">
+            REFERENCE TEXTBOOKS
+        </h1>
+       </div> 
+       <ul class="nav">
+           <li><a href="#home">Home</a></li>
+           <li><a href="#about">About Us</a></li>
+           <li><a href="#login">Login</a></li>  
+           <li><a href="#contact">Contact Us</a></li>
+         </ul>
+    <h2><h3 style="text-align:center;color:rgb(89, 5, 5);font-size: xx-large;">Subjects Available - 2nd Year</h3></h2>
+  
+    <div class="column">
+      <a href="https://amzn.eu/d/e0pMoWX"><img src="DSA.jpg" alt="HTML tutorial" style="width:200px;height:200px;"></a>
+    </div>
+    <div class="column">
+      <a href="https://www.amazon.in/Discrete-Mathematics-Computer-Scientists-Mathematicians/dp/0835913910"><img src="DM.jpg" alt="HTML tutorial" style="width:200px;height:200px;"></a>
+    </div>
+    <div class="column">
+      <a href="https://amzn.eu/d/asIOBeY"><img src="OOPs.jpg" alt="HTML tutorial" style="width:200px;height:200px;"></a>
+    </div>
+    <div class="column">
+      <a href="https://amzn.eu/d/5xrR7oH"><img src="BE.jpg" alt="HTML tutorial" style="width:200px;height:200px;"></a>
+    </div>
+    <div class="column">
+      <a href="https://amzn.eu/d/cKmGntW"><img src="OR.jpg" alt="HTML tutorial" style="width:200px;height:200px;"></a>
+    </div>
+    <div class="column">
+      <a href="https://amzn.eu/d/9kRWbKm"><img src="DE.jpg" alt="HTML tutorial" style="width:200px;height:200px;"></a>
+    </div>
+
+  </div>
+
+</body>
+</html>
+
+
+
